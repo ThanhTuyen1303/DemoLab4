@@ -1,0 +1,155 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TypoUprightBT-Regular
+FamilyName:TypoUpright BT
+StyleName:Regular
+FullName:TypoUpright BT
+MenuName:TypoUpright BT
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Admin\Desktop\De nop-photoshop\Menu\Font\tt0939m_.ttf
+DataFormat:sfntData
+FileLength:62084
+FileModTime:1330376860
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UVNHongHaBold
+FamilyName:UVN Hong Ha
+StyleName:Bold
+FullName:UVN Hong Ha Bold
+MenuName:UVN Hong Ha
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Admin\Desktop\De nop-photoshop\Menu\Font\UVNHongHa.TTF
+DataFormat:sfntData
+FileLength:60052
+FileModTime:997034260
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UVNHongHaItalic
+FamilyName:UVN Hong Ha
+StyleName:Italic
+FullName:UVN Hong Ha Italic
+MenuName:UVN Hong Ha
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Admin\Desktop\De nop-photoshop\Menu\Font\UVNHongHa_I.TTF
+DataFormat:sfntData
+FileLength:63512
+FileModTime:997034156
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UVNHongHa
+FamilyName:UVN Hong Ha
+StyleName:Regular
+FullName:UVN Hong Ha
+MenuName:UVN Hong Ha
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Admin\Desktop\De nop-photoshop\Menu\Font\UVNHongHa_R.TTF
+DataFormat:sfntData
+FileLength:60908
+FileModTime:997034384
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UVNSangSongBold
+FamilyName:UVN Sang Song
+StyleName:Bold
+FullName:UVN Sang Song Bold
+MenuName:UVN Sang Song
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Admin\Desktop\De nop-photoshop\Menu\Font\UVNSangSong.TTF
+DataFormat:sfntData
+FileLength:66748
+FileModTime:998469316
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UVNSangSong
+FamilyName:UVN Sang Song
+StyleName:Regular
+FullName:UVN Sang Song
+MenuName:UVN Sang Song
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Admin\Desktop\De nop-photoshop\Menu\Font\UVNSangSong_R.TTF
+DataFormat:sfntData
+FileLength:66660
+FileModTime:998468394
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:VNelephantItalic
+FamilyName:VNelephant
+StyleName:Italic
+FullName:VNelephant Italic
+MenuName:VNelephant
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Admin\Desktop\De nop-photoshop\Menu\Font\VELEPHAI.TTF
+DataFormat:sfntData
+FileLength:59856
+FileModTime:805791600
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:VNelephant
+FamilyName:VNelephant
+StyleName:Regular
+FullName:VNelephant
+MenuName:VNelephant
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Admin\Desktop\De nop-photoshop\Menu\Font\VELEPHAN.TTF
+DataFormat:sfntData
+FileLength:63376
+FileModTime:805791600
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
